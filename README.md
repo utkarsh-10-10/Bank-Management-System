@@ -54,7 +54,7 @@ Bank-Management-System/
 ├── requirements.txt  # List of external libraries.
 └── README.md         # Project documentation.
 ```
-# 🚀 How to Run
+## 🚀 How to Run
 
 ### Install Dependencies
 Open your terminal/command prompt in the project folder and run:
@@ -66,13 +66,13 @@ Open your terminal/command prompt in the project folder and run:
 ```python main.py```
 (The database file bank.db will be created automatically on the first run).
 
-# 🔑 Default Admin Credentials
+## 🔑 Default Admin Credentials
 Use these credentials to access the Admin Dashboard for the first time:
 
 ```Username: admin```
 ```Password: admin123```
 
-# 📝 Team Name
+## 📝 Team Name
 **Code Wizards**
 
 Computational Thinking and Programming Project (2025CSET100)
