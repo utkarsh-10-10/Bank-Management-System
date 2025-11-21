@@ -72,7 +72,7 @@ Use these credentials to access the Admin Dashboard for the first time:
 ```Username: admin```
 ```Password: admin123```
 
-## 📝 Authors
-Team Name: Code Wizards
+# 📝 Team Name
+**Code Wizards**
 
 Computational Thinking and Programming Project (2025CSET100)
