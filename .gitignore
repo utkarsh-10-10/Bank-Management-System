@@ -1,0 +1,13 @@
+Python cache files
+
+pycache/
+*.pyc
+
+Generated CSV reports
+
+*.csv
+
+System files (Mac/Windows)
+
+.DS_Store
+Thumbs.db
