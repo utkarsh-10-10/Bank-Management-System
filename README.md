@@ -61,18 +61,18 @@ Open your terminal/command prompt in the project folder and run:
 
 ```pip install -r requirements.txt```
 
-###Run the Application:
+### Run the Application:
 
 ```python main.py```
 (The database file bank.db will be created automatically on the first run).
 
-#🔑 Default Admin Credentials
+# 🔑 Default Admin Credentials
 Use these credentials to access the Admin Dashboard for the first time:
 
 ```Username: admin```
 ```Password: admin123```
 
-##📝 Authors
+## 📝 Authors
 Team Name: Code Wizards
 
 Computational Thinking and Programming Project (2025CSET100)
